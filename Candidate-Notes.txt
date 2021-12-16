@@ -13,6 +13,10 @@ Everything related to the networking part was implemented with a Swift Package M
 
 I leave the link [here](https://github.com/jghg02/JNetworking)
 
+## Google API Key 
+
+To add the google api key you must do it inside the App Delegate of the project.
+
 ## Specifications
 - Xcode 13.1
 - Swift 5.0 

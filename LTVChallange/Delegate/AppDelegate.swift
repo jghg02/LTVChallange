@@ -16,7 +16,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
-        GMSPlacesClient.provideAPIKey("AIzaSyCKOwUkyFeG-0kzD2--dsNjRwN6Ukzu6a0")
+        // Google API KEY!!!
+        GMSPlacesClient.provideAPIKey("API_KEY")
         
         window = UIWindow.init(frame: UIScreen.main.bounds)
         
