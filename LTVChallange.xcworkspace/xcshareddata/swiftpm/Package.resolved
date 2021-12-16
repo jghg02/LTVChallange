@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "JNetworking",
+        "repositoryURL": "https://github.com/jghg02/JNetworking",
+        "state": {
+          "branch": "master",
+          "revision": "1ec45f4597cc19d42fb32d32564583b56c1c0998",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
