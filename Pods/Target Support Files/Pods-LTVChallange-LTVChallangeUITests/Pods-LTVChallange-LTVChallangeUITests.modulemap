@@ -1,0 +1,6 @@
+framework module Pods_LTVChallange_LTVChallangeUITests {
+  umbrella header "Pods-LTVChallange-LTVChallangeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
